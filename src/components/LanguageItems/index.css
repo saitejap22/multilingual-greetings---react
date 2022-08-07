@@ -1,0 +1,24 @@
+.list-items {
+  list-style-type: none;
+  width: 70px;
+  margin: 6px;
+}
+.lang-button {
+  color: #db1c48;
+  font-size: 15px;
+  background-color: transparent;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  outline: none;
+  padding: 10px;
+  border: 1px solid #db1c48;
+}
+.active-btn {
+  background-color: #db1c48;
+  color: white;
+}
+.image {
+  height: 200px;
+  width: 200px;
+}

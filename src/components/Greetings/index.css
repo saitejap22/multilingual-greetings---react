@@ -1,0 +1,21 @@
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.heading {
+  font-size: 40px;
+  font-family: roboto;
+}
+.language-list {
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+.image {
+  margin-top: 40px;
+  height: 400px;
+  width: 310px;
+}
